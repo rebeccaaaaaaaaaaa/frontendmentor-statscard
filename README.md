@@ -19,7 +19,7 @@ Link do desafio : [Stats preview card component ](https://www.frontendmentor.io/
 - Rode - npm run start - para executar o projeto localmente
 
 
-![Imagem]()
+![Imagem](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/frontendmentor-statscard/main/public/design/desktop-preview.jpg)
 
 # Deploy
 
