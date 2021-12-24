@@ -23,4 +23,4 @@ Link do desafio : [Stats preview card component ](https://www.frontendmentor.io/
 
 # Deploy
 
-[Veja o site]()
+[Veja o site](https://rebecca-frontendmentor-statscard.netlify.app/)
